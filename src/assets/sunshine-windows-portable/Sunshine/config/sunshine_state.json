@@ -1,0 +1,15 @@
+{
+    "username": "centygo",
+    "salt": "D4yHaQ6IeLZ0sxRe",
+    "password": "B14B0DF076BFC8093A501776AE8BA883AD2F9A842CA64C2E9B1A9D6655A5BF6E",
+    "root": {
+        "uniqueid": "50FDEED0-0860-832A-2F10-8FD1F66BBDA0",
+        "named_devices": [
+            {
+                "name": "TV Sala",
+                "cert": "-----BEGIN CERTIFICATE-----\nMIICxjCCAa6gAwIBAgIIClVyHidAzNUwDQYJKoZIhvcNAQELBQAwIzEhMB8GA1UE\nAwwYTlZJRElBIEdhbWVTdHJlYW0gQ2xpZW50MB4XDTI1MDgyNTE2MTQzMloXDTQ1\nMDgyNTE2MTQzMlowIzEhMB8GA1UEAwwYTlZJRElBIEdhbWVTdHJlYW0gQ2xpZW50\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwoGqrhWWgr45XlKgjyK0\n\/8\/8a5IQTTQauOKvw1tI2mvBlZkd1oczdjYd7r7yrHma9QZCXCWTr7Cs2VyofAO2\nbLQZLjMA4dr3VzHfnurpb6A2q63s6BortJttjDHHapI3Yu0eJxmLnjgaoBr8V2Ow\n\/6FxzwtEZ9neKVZHoslxeGXlkkBTXdJLzdFa\/ok0byp7l+oiuqmLVsgyjnwumj7a\n2lUEDdRReeRMZv5X0GNsqWm7OW2P3wrfAnQx03H1+H\/GFujO9iVIgaElQ5kN8he1\npVMtBMyhfjAs9TC4n0n0gVA5E+bzMoJTgh7xHN0oIQm3szfvFflDOVcOhx3ULblt\nKwIDAQABMA0GCSqGSIb3DQEBCwUAA4IBAQCoFGS253JZKjcAaJdEcH+ObXjBcnni\nV9i+slGbqZCJtmIOjyJ+zHFu8oHUYIzas+AiVE38yZN6BJ2FkaNBhTYoml95Dtjt\nxH9mnoFMep4eWqg6G7HT6lm8MOUKy3vOTTP8n82fzgpYaQh8ebUpCmZpC2+mbBDB\neFuyYKHh53RMDxECtT4tAVJQb7+qKirD682y6FdOkySiAH57snsXmg5THMq8sOIf\nylPLE0VL0JxmNkKpnhagEa97gh26Mi0C0nj8jt2WC\/R2ytgtEsAMUy+VJJ2\/yNsb\npl7XmIajvYF1MBmwx88PQsjwJOEnCboL3Yk7zJ6LtKGo8CoB5h\/vJjm2\n-----END CERTIFICATE-----\n",
+                "uuid": "B0F90FA2-F869-2E0D-548F-41CC4B3F28B1"
+            }
+        ]
+    }
+}
